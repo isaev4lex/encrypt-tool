@@ -1,0 +1,12 @@
+#pragma once
+#include <iostream>
+#include <fstream>
+#include <sstream>
+#include <filesystem>
+#include <string>
+#include <vector>
+#include <map>
+#include <cstring>
+#include <stdexcept>
+#include <openssl/evp.h>
+#include <openssl/rand.h>
